@@ -13,30 +13,6 @@ A sleek and modern frontend web project built with **React**, **TypeScript**, **
 
 ---
 
-## 📁 Project Structure
-
-project/
-├── public/
-│ └── icon.svg
-├── src/
-│ ├── assets/ # Static files like images (if any)
-│ ├── components/ # Reusable React components
-│ │ ├── CustomCursor.tsx
-│ │ ├── Hero.tsx
-│ │ ├── Footer.tsx
-│ │ └── Certifications.tsx
-│ ├── index.css # Tailwind base styles
-│ ├── main.tsx # App entry point
-│ └── App.tsx # Root component
-├── index.html # HTML entry point
-├── package.json # Project metadata and dependencies
-├── tsconfig*.json # TypeScript configurations
-├── vite.config.ts # Vite configuration
-├── tailwind.config.js # Tailwind theme settings
-├── postcss.config.js # PostCSS setup
-└── eslint.config.js # Linting rules
-
----
 
 ## 🚀 Getting Started
 
